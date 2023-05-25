@@ -1,0 +1,9 @@
+version: '3.9'
+services:
+  test-automation:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    volumes:
+      - ./Test Automation:/app
+    command: python -m unittest discover
