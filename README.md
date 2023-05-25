@@ -38,8 +38,9 @@ cd Test Automation/
 
 3. (Opsional) Jika Anda ingin menjalankan Test Automation menggunakan Docker, pastikan Anda telah menginstal Docker dan Docker Compose. Kemudian jalankan perintah berikut untuk membangun dan menjalankan container:
 
+```
 docker-compose up
-
+```
 
 4. (Opsional) Jika Anda ingin menjalankan Test Automation secara lokal, pastikan Anda telah mengatur WebDriver yang sesuai. Kemudian jalankan skrip pengujian menggunakan perintah berikut:
 
