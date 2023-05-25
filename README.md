@@ -4,7 +4,7 @@ Ini adalah proyek Test Automation yang dibangun menggunakan Selenium dan Python 
 
 ## Persyaratan
 
-- Python 3.x
+- Python 3.11.3
 - Selenium
 - Webdriver (untuk browser yang diinginkan, misalnya ChromeDriver untuk Chrome)
 
@@ -33,8 +33,9 @@ Pastikan juga Anda telah mengunduh dan menginstal Webdriver yang sesuai untuk br
 1. Pastikan Anda telah menginstal semua persyaratan yang disebutkan di bagian Persyaratan.
 2. Ubah direktori ke dalam folder utama proyek:
 
+```
 cd Test Automation/
-
+```
 
 3. (Opsional) Jika Anda ingin menjalankan Test Automation menggunakan Docker, pastikan Anda telah menginstal Docker dan Docker Compose. Kemudian jalankan perintah berikut untuk membangun dan menjalankan container:
 
@@ -44,8 +45,9 @@ docker-compose up
 
 4. (Opsional) Jika Anda ingin menjalankan Test Automation secara lokal, pastikan Anda telah mengatur WebDriver yang sesuai. Kemudian jalankan skrip pengujian menggunakan perintah berikut:
 
+```
 python -m unittest discover
-
+```
 
 Perintah ini akan menjalankan semua skrip pengujian yang ada di folder pengujian. Anda dapat menyesuaikan perintah ini sesuai dengan kebutuhan Anda.
 
