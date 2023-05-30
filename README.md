@@ -1,6 +1,4 @@
-![Teks][def]
-
-[def]: TUKANG NGETEST.png
+![Teks alternatif](TUKANG NGETEST.png)
 
 # Test Automation
 
