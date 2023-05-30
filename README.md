@@ -1,3 +1,7 @@
+![Teks][def]
+
+[def]: TUKANG NGETEST.png
+
 # Test Automation
 
 Ini adalah proyek Test Automation yang dibangun menggunakan Selenium dan Python untuk mengotomatiskan pengujian perangkat lunak. Proyek ini menggunakan Selenium untuk mengendalikan browser dan menjalankan skrip pengujian yang telah ditulis dengan Python.
